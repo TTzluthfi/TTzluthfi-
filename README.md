@@ -1,4 +1,4 @@
-# Halo semua! 
+### Hi! 👋 Saya Ariq Luthfi.
 
 Perkenalkan nama saya **Ariq Luthfi Rifqi** .\
 

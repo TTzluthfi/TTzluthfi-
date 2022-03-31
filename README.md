@@ -28,10 +28,10 @@
 
 </div><br></br>
 
-<h2 align="center"><img align="center" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="30%"></h2>
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=herkura&theme=gotham" width = "45%" align = "right"></img>
-<img src = "https://github-readme-stats.vercel.app/api?username=herkura&theme=gotham&show_icons=true" width = "45%"></img>
-<h2 align = "center"><img src= "https://github.com/herkura/herkura/blob/main/herkuraskyline.gif" width="600px" height="218px"></img></h2>
+<a href="https://github.com/ariqluth">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ariqluth&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ariqluth&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 
 ## Trophies 🏆
 Masih Belum ada :)

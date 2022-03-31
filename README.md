@@ -3,6 +3,9 @@
  <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></h1>
 
 <p> Hi, my name is Ariq Luthfi Rifqi. My passion includes Frontend Development and software development, exploring tools, and technology to create and innovate limitless possibilities and drive measurable impact to the ecosystem.</p>
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/1VEnfKkMGikAAAAd/lofi-girl-music.gif">
+
+<p align="left"> <a href="https://twitter.com/arqluth" target="blank"><img src="https://img.shields.io/twitter/follow/arqluth?logo=twitter&style=for-the-badge" alt="Ariq Luthfi Rifqi" /></a> </p>
 
 - 🔭 I’m currently working on Java, Apex, JavaScript, AngularJS, Soql, Sosl.
 - 🌱 I’m looking to collaborate to anything 😄

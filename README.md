@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arqluth" target="blank"><img src="https://img.shields.io/twitter/follow/arqluth?logo=twitter&style=for-the-badge" alt="Ariq Luthfi Rifqi" /></a> </p>
 
-- 🔭 I’m currently working on Java, Apex, JavaScript, AngularJS, Soql, Sosl.
+- 🔭 I’m currently working on Java, PHP, JavaScript.
 - 🌱 I’m looking to collaborate to anything 😄
 - 🎓 [Know more about me](https://ttzluthfi.github.io/)
 

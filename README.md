@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Java, PHP, JavaScript.
 - 🌱 I’m looking to collaborate to anything 😄
-- 🎓 [Know more about me](https://ttzluthfi.github.io/)
+- 🎓 [Know more about me](https://ariqluth.github.io/)
 
 ### Languages
 
